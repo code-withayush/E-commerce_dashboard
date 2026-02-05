@@ -1,0 +1,501 @@
+Order_ID,Date,Customer_ID,Product_Category,Product_Name,Quantity,Price,Payment_Method,City,Month_year,Total amount,Dayofweek
+ORD1000,03-04-2025,CUST126,Furniture,Toward Furnitur,5,2578.28,Debit Card,Ahmedabad,Apr-2025,12891.4,Thu
+ORD1001,19-03-2025,CUST222,Clothes,Service Clothe,5,1850.69,Cash on Delivery,Ahmedabad,Mar-2025,9253.45,Wed
+ORD1002,18-11-2024,CUST864,Furniture,Between Furnitur,2,955.74,Credit Card,Ahmedabad,Nov-2024,1911.48,Mon
+ORD1003,30-03-2025,CUST717,Clothes,Admit Clothe,2,5110.35,Debit Card,Ahmedabad,Mar-2025,10220.7,Sun
+ORD1004,27-07-2025,CUST749,Books,Level Book,3,17412.94,Wallet,Mumbai,Jul-2025,52238.82,Sun
+ORD1005,19-12-2024,CUST834,Sports,Evening Sport,4,11396.9,Wallet,Chennai,Dec-2024,45587.6,Thu
+ORD1006,29-11-2024,CUST894,Clothes,Five Clothe,5,5832.68,Wallet,Kolkata,Nov-2024,29163.4,Fri
+ORD1007,10-04-2025,CUST955,Electronics,Anyone Electronic,5,17361.47,Credit Card,Kolkata,Apr-2025,86807.35,Thu
+ORD1008,24-10-2024,CUST645,Clothes,Particular Clothe,5,13466.34,Credit Card,Hyderabad,Oct-2024,67331.7,Thu
+ORD1009,17-01-2025,CUST100,Beauty,Base Beaut,5,19168.58,Cash on Delivery,Chennai,Jan-2025,95842.9,Fri
+ORD1010,09-02-2025,CUST827,Sports,Pick Sport,2,6264.42,Wallet,Bangalore,Feb-2025,12528.84,Sun
+ORD1011,13-12-2024,CUST323,Clothes,Reality Clothe,2,4065.97,Cash on Delivery,Hyderabad,Dec-2024,8131.94,Fri
+ORD1012,04-10-2024,CUST121,Books,Idea Book,5,11604.54,Cash on Delivery,Kolkata,Oct-2024,58022.7,Fri
+ORD1013,26-03-2025,CUST880,Sports,Lose Sport,4,3257.64,Cash on Delivery,Ahmedabad,Mar-2025,13030.56,Wed
+ORD1014,27-02-2025,CUST508,Electronics,Time Electronic,5,19379.94,UPI,Ahmedabad,Feb-2025,96899.7,Thu
+ORD1015,30-07-2025,CUST393,Clothes,After Clothe,2,3019.13,Credit Card,Pune,Jul-2025,6038.26,Wed
+ORD1016,24-04-2025,CUST175,Electronics,Ahead Electronic,3,14007.28,Wallet,Ahmedabad,Apr-2025,42021.84,Thu
+ORD1017,08-05-2025,CUST947,Shoes,Within Shoe,5,13681.22,Wallet,Ahmedabad,May-2025,68406.1,Thu
+ORD1018,28-05-2025,CUST877,Furniture,Order Furnitur,5,10451.15,Credit Card,Kolkata,May-2025,52255.75,Wed
+ORD1019,02-01-2025,CUST580,Clothes,Turn Clothe,2,9602.98,UPI,Hyderabad,Jan-2025,19205.96,Thu
+ORD1020,24-08-2025,CUST393,Furniture,Future Furnitur,3,17131.85,Wallet,Chennai,Aug-2025,51395.55,Sun
+ORD1021,21-09-2024,CUST749,Beauty,Conference Beaut,3,8113.85,Cash on Delivery,Delhi,Sep-2024,24341.55,Sat
+ORD1022,10-09-2024,CUST992,Electronics,Itself Electronic,5,8773.85,Credit Card,Delhi,Sep-2024,43869.25,Tue
+ORD1023,27-03-2025,CUST198,Books,Too Book,4,4273.49,Debit Card,Mumbai,Mar-2025,17093.96,Thu
+ORD1024,08-06-2025,CUST906,Shoes,In Shoe,5,18534.97,Wallet,Delhi,Jun-2025,92674.85,Sun
+ORD1025,10-03-2025,CUST604,Furniture,Physical Furnitur,3,16395.77,Wallet,Ahmedabad,Mar-2025,49187.31,Mon
+ORD1026,14-09-2024,CUST997,Beauty,Race Beaut,5,15387.09,Credit Card,Kolkata,Sep-2024,76935.45,Sat
+ORD1027,15-11-2024,CUST524,Beauty,Increase Beaut,5,1175.8,Wallet,Bangalore,Nov-2024,5879,Fri
+ORD1028,24-03-2025,CUST622,Electronics,Eight Electronic,1,6703.19,Debit Card,Kolkata,Mar-2025,6703.19,Mon
+ORD1029,19-10-2024,CUST271,Electronics,Need Electronic,2,12607.45,Debit Card,Pune,Oct-2024,25214.9,Sat
+ORD1030,17-10-2024,CUST224,Shoes,Rule Shoe,5,4928.13,UPI,Delhi,Oct-2024,24640.65,Thu
+ORD1031,02-05-2025,CUST574,Shoes,Require Shoe,5,10756.92,Debit Card,Bangalore,May-2025,53784.6,Fri
+ORD1032,04-05-2025,CUST783,Furniture,Truth Furnitur,2,1105.21,Debit Card,Pune,May-2025,2210.42,Sun
+ORD1033,08-02-2025,CUST281,Shoes,Side Shoe,4,19185.1,Wallet,Ahmedabad,Feb-2025,76740.4,Sat
+ORD1034,23-12-2024,CUST927,Sports,Economic Sport,3,11638.38,Cash on Delivery,Kolkata,Dec-2024,34915.14,Mon
+ORD1035,26-11-2024,CUST199,Electronics,Responsibility Electronic,2,14533.89,Debit Card,Kolkata,Nov-2024,29067.78,Tue
+ORD1036,06-01-2025,CUST129,Books,Yard Book,1,3895.33,UPI,Ahmedabad,Jan-2025,3895.33,Mon
+ORD1037,17-08-2025,CUST746,Clothes,Foot Clothe,2,17030.67,Cash on Delivery,Kolkata,Aug-2025,34061.34,Sun
+ORD1038,21-12-2024,CUST184,Beauty,Until Beaut,5,8491.09,Wallet,Pune,Dec-2024,42455.45,Sat
+ORD1039,11-08-2025,CUST359,Beauty,Know Beaut,2,418.83,Cash on Delivery,Kolkata,Aug-2025,837.66,Mon
+ORD1040,28-11-2024,CUST989,Beauty,Clearly Beaut,1,13204.97,Debit Card,Ahmedabad,Nov-2024,13204.97,Thu
+ORD1041,18-05-2025,CUST178,Shoes,Floor Shoe,2,14814.35,UPI,Pune,May-2025,29628.7,Sun
+ORD1042,14-11-2024,CUST951,Books,Determine Book,2,6799.06,Debit Card,Ahmedabad,Nov-2024,13598.12,Thu
+ORD1043,19-12-2024,CUST776,Beauty,Never Beaut,5,8819.55,Credit Card,Hyderabad,Dec-2024,44097.75,Thu
+ORD1044,28-12-2024,CUST693,Beauty,Meeting Beaut,4,14084.94,Debit Card,Ahmedabad,Dec-2024,56339.76,Sat
+ORD1045,22-03-2025,CUST586,Furniture,Some Furnitur,1,10311.09,UPI,Delhi,Mar-2025,10311.09,Sat
+ORD1046,16-10-2024,CUST785,Electronics,By Electronic,3,6755.97,UPI,Pune,Oct-2024,20267.91,Wed
+ORD1047,31-07-2025,CUST309,Beauty,Computer Beaut,5,11373.66,Debit Card,Pune,Jul-2025,56868.3,Thu
+ORD1048,28-04-2025,CUST294,Beauty,Require Beaut,2,9159.39,Credit Card,Ahmedabad,Apr-2025,18318.78,Mon
+ORD1049,04-09-2024,CUST750,Clothes,Pretty Clothe,2,896.87,Wallet,Delhi,Sep-2024,1793.74,Wed
+ORD1050,12-08-2025,CUST349,Furniture,Toward Furnitur,3,13603.27,Credit Card,Chennai,Aug-2025,40809.81,Tue
+ORD1051,11-08-2025,CUST931,Clothes,Whole Clothe,1,9995.25,Wallet,Hyderabad,Aug-2025,9995.25,Mon
+ORD1052,02-04-2025,CUST840,Beauty,Wear Beaut,4,18827.5,Cash on Delivery,Bangalore,Apr-2025,75310,Wed
+ORD1053,05-12-2024,CUST737,Beauty,Physical Beaut,1,18656.84,UPI,Chennai,Dec-2024,18656.84,Thu
+ORD1054,30-09-2024,CUST992,Electronics,Yard Electronic,4,7620.12,Credit Card,Ahmedabad,Sep-2024,30480.48,Mon
+ORD1055,04-10-2024,CUST224,Books,Up Book,5,9501.47,Credit Card,Mumbai,Oct-2024,47507.35,Fri
+ORD1056,16-02-2025,CUST121,Shoes,Listen Shoe,2,7915.71,Wallet,Bangalore,Feb-2025,15831.42,Sun
+ORD1057,31-01-2025,CUST791,Clothes,Mouth Clothe,3,10312.5,UPI,Mumbai,Jan-2025,30937.5,Fri
+ORD1058,13-08-2025,CUST786,Electronics,Threat Electronic,5,6623.89,UPI,Delhi,Aug-2025,33119.45,Wed
+ORD1059,27-04-2025,CUST225,Beauty,Movement Beaut,1,17271.34,UPI,Mumbai,Apr-2025,17271.34,Sun
+ORD1060,07-10-2024,CUST314,Electronics,Probably Electronic,4,9832.59,Debit Card,Pune,Oct-2024,39330.36,Mon
+ORD1061,03-02-2025,CUST236,Beauty,Mr Beaut,1,8532.36,UPI,Pune,Feb-2025,8532.36,Mon
+ORD1062,04-07-2025,CUST266,Sports,Sit Sport,3,2270.33,UPI,Mumbai,Jul-2025,6810.99,Fri
+ORD1063,01-10-2024,CUST707,Sports,Word Sport,1,18873.03,Credit Card,Chennai,Oct-2024,18873.03,Tue
+ORD1064,26-01-2025,CUST935,Shoes,Condition Shoe,3,7976.02,Wallet,Kolkata,Jan-2025,23928.06,Sun
+ORD1065,19-08-2025,CUST343,Beauty,Performance Beaut,4,14066.47,Cash on Delivery,Kolkata,Aug-2025,56265.88,Tue
+ORD1066,07-04-2025,CUST262,Books,Pretty Book,2,499.35,Credit Card,Hyderabad,Apr-2025,998.7,Mon
+ORD1067,09-06-2025,CUST613,Clothes,Relate Clothe,2,10299.39,UPI,Ahmedabad,Jun-2025,20598.78,Mon
+ORD1068,10-11-2024,CUST127,Beauty,Role Beaut,3,8870.9,UPI,Hyderabad,Nov-2024,26612.7,Sun
+ORD1069,28-02-2025,CUST363,Beauty,Wife Beaut,5,9280.95,Wallet,Ahmedabad,Feb-2025,46404.75,Fri
+ORD1070,26-10-2024,CUST276,Clothes,Budget Clothe,4,14174.87,Cash on Delivery,Kolkata,Oct-2024,56699.48,Sat
+ORD1071,31-08-2024,CUST579,Shoes,White Shoe,4,18178.39,Credit Card,Hyderabad,Aug-2024,72713.56,Sat
+ORD1072,17-01-2025,CUST542,Furniture,Cell Furnitur,1,19995.21,Cash on Delivery,Hyderabad,Jan-2025,19995.21,Fri
+ORD1073,18-10-2024,CUST302,Beauty,Least Beaut,5,3545.96,Debit Card,Chennai,Oct-2024,17729.8,Fri
+ORD1074,15-06-2025,CUST551,Shoes,Worry Shoe,2,11505.13,UPI,Kolkata,Jun-2025,23010.26,Sun
+ORD1075,31-05-2025,CUST452,Furniture,Pretty Furnitur,3,4146.57,Wallet,Delhi,May-2025,12439.71,Sat
+ORD1076,26-11-2024,CUST802,Electronics,Build Electronic,5,18869.73,UPI,Delhi,Nov-2024,94348.65,Tue
+ORD1077,16-06-2025,CUST858,Sports,Scene Sport,5,7173.49,Wallet,Hyderabad,Jun-2025,35867.45,Mon
+ORD1078,02-08-2025,CUST725,Shoes,Off Shoe,1,19857.24,Debit Card,Delhi,Aug-2025,19857.24,Sat
+ORD1079,11-02-2025,CUST322,Books,Reality Book,4,15419.89,Wallet,Chennai,Feb-2025,61679.56,Tue
+ORD1080,09-04-2025,CUST367,Clothes,Arm Clothe,1,13715.08,Cash on Delivery,Bangalore,Apr-2025,13715.08,Wed
+ORD1081,14-04-2025,CUST303,Shoes,Health Shoe,1,18231.56,UPI,Pune,Apr-2025,18231.56,Mon
+ORD1082,28-06-2025,CUST327,Beauty,Sister Beaut,2,6268.7,Debit Card,Bangalore,Jun-2025,12537.4,Sat
+ORD1083,01-12-2024,CUST809,Books,Whose Book,1,5085.25,Cash on Delivery,Pune,Dec-2024,5085.25,Sun
+ORD1084,25-06-2025,CUST108,Shoes,While Shoe,3,12528.06,Credit Card,Mumbai,Jun-2025,37584.18,Wed
+ORD1085,30-08-2024,CUST153,Clothes,Between Clothe,4,19756.56,Debit Card,Hyderabad,Aug-2024,79026.24,Fri
+ORD1086,26-10-2024,CUST871,Sports,End Sport,2,14053.54,Wallet,Bangalore,Oct-2024,28107.08,Sat
+ORD1087,02-12-2024,CUST734,Sports,Animal Sport,5,262.85,Debit Card,Hyderabad,Dec-2024,1314.25,Mon
+ORD1088,19-01-2025,CUST732,Beauty,Box Beaut,2,13230.72,Cash on Delivery,Pune,Jan-2025,26461.44,Sun
+ORD1089,31-01-2025,CUST632,Electronics,Leg Electronic,3,18860.85,UPI,Kolkata,Jan-2025,56582.55,Fri
+ORD1090,02-07-2025,CUST468,Beauty,Black Beaut,2,4576.37,Wallet,Chennai,Jul-2025,9152.74,Wed
+ORD1091,23-05-2025,CUST722,Furniture,Also Furnitur,4,16133.97,Credit Card,Ahmedabad,May-2025,64535.88,Fri
+ORD1092,28-12-2024,CUST788,Sports,Long Sport,1,6703.91,Cash on Delivery,Kolkata,Dec-2024,6703.91,Sat
+ORD1093,23-08-2025,CUST384,Books,Trade Book,4,18212.69,Wallet,Hyderabad,Aug-2025,72850.76,Sat
+ORD1094,11-12-2024,CUST999,Beauty,Alone Beaut,3,4362.66,Cash on Delivery,Mumbai,Dec-2024,13087.98,Wed
+ORD1095,02-03-2025,CUST916,Sports,Mr Sport,1,7950.42,Debit Card,Hyderabad,Mar-2025,7950.42,Sun
+ORD1096,06-12-2024,CUST255,Shoes,Care Shoe,5,19108.22,Cash on Delivery,Ahmedabad,Dec-2024,95541.1,Fri
+ORD1097,18-04-2025,CUST769,Sports,Analysis Sport,1,16570.67,Debit Card,Chennai,Apr-2025,16570.67,Fri
+ORD1098,28-11-2024,CUST770,Electronics,Structure Electronic,3,1885.35,Wallet,Mumbai,Nov-2024,5656.05,Thu
+ORD1099,25-02-2025,CUST550,Shoes,Environment Shoe,3,5534.44,UPI,Mumbai,Feb-2025,16603.32,Tue
+ORD1100,13-09-2024,CUST983,Furniture,Staff Furnitur,5,18865.67,Cash on Delivery,Kolkata,Sep-2024,94328.35,Fri
+ORD1101,28-03-2025,CUST396,Books,Throw Book,4,4433.86,Debit Card,Bangalore,Mar-2025,17735.44,Fri
+ORD1102,21-07-2025,CUST672,Books,Increase Book,2,13851.28,UPI,Chennai,Jul-2025,27702.56,Mon
+ORD1103,08-05-2025,CUST833,Sports,Pattern Sport,2,11099.07,Debit Card,Mumbai,May-2025,22198.14,Thu
+ORD1104,23-01-2025,CUST184,Books,Car Book,1,15901.84,Debit Card,Chennai,Jan-2025,15901.84,Thu
+ORD1105,27-10-2024,CUST140,Books,Window Book,4,19008.41,Cash on Delivery,Kolkata,Oct-2024,76033.64,Sun
+ORD1106,17-06-2025,CUST745,Clothes,Debate Clothe,3,750.86,Cash on Delivery,Kolkata,Jun-2025,2252.58,Tue
+ORD1107,08-05-2025,CUST906,Electronics,Make Electronic,1,12804.35,Debit Card,Ahmedabad,May-2025,12804.35,Thu
+ORD1108,06-06-2025,CUST687,Shoes,Shake Shoe,3,5375.16,Wallet,Ahmedabad,Jun-2025,16125.48,Fri
+ORD1109,16-05-2025,CUST135,Furniture,Miss Furnitur,1,18748.7,Credit Card,Mumbai,May-2025,18748.7,Fri
+ORD1110,11-08-2025,CUST431,Shoes,Quickly Shoe,1,9734.74,UPI,Ahmedabad,Aug-2025,9734.74,Mon
+ORD1111,08-12-2024,CUST597,Sports,Realize Sport,1,10616.74,Cash on Delivery,Pune,Dec-2024,10616.74,Sun
+ORD1112,20-08-2025,CUST110,Electronics,Up Electronic,1,12091.36,Wallet,Ahmedabad,Aug-2025,12091.36,Wed
+ORD1113,04-04-2025,CUST697,Shoes,Least Shoe,1,14970.64,Credit Card,Kolkata,Apr-2025,14970.64,Fri
+ORD1114,30-07-2025,CUST131,Sports,Interesting Sport,4,18065.66,Credit Card,Bangalore,Jul-2025,72262.64,Wed
+ORD1115,25-05-2025,CUST760,Sports,Power Sport,3,725.98,Wallet,Kolkata,May-2025,2177.94,Sun
+ORD1116,24-05-2025,CUST798,Clothes,Require Clothe,2,7455.08,UPI,Bangalore,May-2025,14910.16,Sat
+ORD1117,30-05-2025,CUST153,Books,Similar Book,5,5123.88,Wallet,Bangalore,May-2025,25619.4,Fri
+ORD1118,24-06-2025,CUST598,Books,Decision Book,1,7658.94,UPI,Delhi,Jun-2025,7658.94,Tue
+ORD1119,28-12-2024,CUST637,Electronics,North Electronic,3,18027.53,Wallet,Delhi,Dec-2024,54082.59,Sat
+ORD1120,03-03-2025,CUST164,Electronics,Fast Electronic,2,19942.88,Cash on Delivery,Delhi,Mar-2025,39885.76,Mon
+ORD1121,19-11-2024,CUST639,Clothes,Ever Clothe,5,19956.82,Debit Card,Kolkata,Nov-2024,99784.1,Tue
+ORD1122,03-10-2024,CUST621,Clothes,Support Clothe,1,6242.67,Wallet,Kolkata,Oct-2024,6242.67,Thu
+ORD1123,11-10-2024,CUST671,Shoes,Cost Shoe,3,11806.25,Debit Card,Kolkata,Oct-2024,35418.75,Fri
+ORD1124,27-01-2025,CUST760,Shoes,Eight Shoe,3,17139.74,Debit Card,Bangalore,Jan-2025,51419.22,Mon
+ORD1125,13-11-2024,CUST250,Electronics,Herself Electronic,1,6458.36,Wallet,Chennai,Nov-2024,6458.36,Wed
+ORD1126,25-07-2025,CUST888,Furniture,Sound Furnitur,4,5178.56,UPI,Bangalore,Jul-2025,20714.24,Fri
+ORD1127,31-12-2024,CUST832,Furniture,Job Furnitur,4,13503.84,Wallet,Pune,Dec-2024,54015.36,Tue
+ORD1128,20-07-2025,CUST444,Books,And Book,4,1966.97,Credit Card,Hyderabad,Jul-2025,7867.88,Sun
+ORD1129,29-08-2025,CUST766,Books,Machine Book,4,11996.83,Debit Card,Delhi,Aug-2025,47987.32,Fri
+ORD1130,20-07-2025,CUST282,Books,Able Book,1,299.04,Wallet,Kolkata,Jul-2025,299.04,Sun
+ORD1131,18-01-2025,CUST567,Shoes,Operation Shoe,3,16096.8,Debit Card,Hyderabad,Jan-2025,48290.4,Sat
+ORD1132,22-02-2025,CUST759,Furniture,Prove Furnitur,2,10712.88,Credit Card,Delhi,Feb-2025,21425.76,Sat
+ORD1133,05-08-2025,CUST197,Clothes,Control Clothe,5,6578.04,UPI,Pune,Aug-2025,32890.2,Tue
+ORD1134,20-01-2025,CUST620,Books,Rest Book,2,6511.71,Credit Card,Chennai,Jan-2025,13023.42,Mon
+ORD1135,27-01-2025,CUST516,Shoes,Month Shoe,2,7047.56,UPI,Mumbai,Jan-2025,14095.12,Mon
+ORD1136,22-06-2025,CUST964,Shoes,Model Shoe,2,16351.95,Debit Card,Kolkata,Jun-2025,32703.9,Sun
+ORD1137,19-12-2024,CUST485,Clothes,Pay Clothe,2,8271.06,Debit Card,Chennai,Dec-2024,16542.12,Thu
+ORD1138,24-05-2025,CUST218,Beauty,War Beaut,4,7658.3,Credit Card,Bangalore,May-2025,30633.2,Sat
+ORD1139,04-05-2025,CUST961,Books,Their Book,4,14415.51,Credit Card,Mumbai,May-2025,57662.04,Sun
+ORD1140,16-11-2024,CUST610,Clothes,Hard Clothe,5,12169.18,UPI,Chennai,Nov-2024,60845.9,Sat
+ORD1141,20-01-2025,CUST535,Electronics,Though Electronic,4,2543.32,Credit Card,Delhi,Jan-2025,10173.28,Mon
+ORD1142,21-07-2025,CUST963,Shoes,Above Shoe,4,3959.39,Credit Card,Bangalore,Jul-2025,15837.56,Mon
+ORD1143,10-09-2024,CUST764,Sports,Financial Sport,2,15711.28,Debit Card,Hyderabad,Sep-2024,31422.56,Tue
+ORD1144,11-04-2025,CUST477,Sports,Risk Sport,1,18824.06,UPI,Bangalore,Apr-2025,18824.06,Fri
+ORD1145,19-06-2025,CUST321,Electronics,Sometimes Electronic,5,5909.61,Debit Card,Delhi,Jun-2025,29548.05,Thu
+ORD1146,05-04-2025,CUST838,Furniture,Something Furnitur,2,17256.31,UPI,Chennai,Apr-2025,34512.62,Sat
+ORD1147,21-10-2024,CUST820,Beauty,Personal Beaut,1,7536.57,Wallet,Mumbai,Oct-2024,7536.57,Mon
+ORD1148,10-04-2025,CUST976,Sports,Adult Sport,5,17724.92,Wallet,Chennai,Apr-2025,88624.6,Thu
+ORD1149,04-09-2024,CUST248,Electronics,Dream Electronic,5,13474.05,UPI,Bangalore,Sep-2024,67370.25,Wed
+ORD1150,04-02-2025,CUST801,Books,Democrat Book,1,12036.82,Debit Card,Delhi,Feb-2025,12036.82,Tue
+ORD1151,06-03-2025,CUST178,Furniture,Well Furnitur,2,2367.54,Cash on Delivery,Hyderabad,Mar-2025,4735.08,Thu
+ORD1152,26-03-2025,CUST282,Shoes,Safe Shoe,3,12542.43,Credit Card,Hyderabad,Mar-2025,37627.29,Wed
+ORD1153,01-03-2025,CUST528,Furniture,Nice Furnitur,4,10115.65,Cash on Delivery,Mumbai,Mar-2025,40462.6,Sat
+ORD1154,21-02-2025,CUST855,Sports,Staff Sport,1,9055.5,Credit Card,Kolkata,Feb-2025,9055.5,Fri
+ORD1155,07-01-2025,CUST433,Sports,Body Sport,1,14513.34,Credit Card,Ahmedabad,Jan-2025,14513.34,Tue
+ORD1156,26-02-2025,CUST385,Beauty,Series Beaut,3,12664.67,UPI,Pune,Feb-2025,37994.01,Wed
+ORD1157,26-04-2025,CUST418,Furniture,Any Furnitur,2,15417.67,Debit Card,Ahmedabad,Apr-2025,30835.34,Sat
+ORD1158,19-08-2025,CUST781,Electronics,Report Electronic,2,19346.76,Credit Card,Bangalore,Aug-2025,38693.52,Tue
+ORD1159,13-12-2024,CUST287,Electronics,World Electronic,4,7526.95,UPI,Ahmedabad,Dec-2024,30107.8,Fri
+ORD1160,21-04-2025,CUST423,Electronics,Despite Electronic,1,10702.51,Credit Card,Chennai,Apr-2025,10702.51,Mon
+ORD1161,11-08-2025,CUST803,Sports,Half Sport,5,666.27,Wallet,Mumbai,Aug-2025,3331.35,Mon
+ORD1162,06-12-2024,CUST704,Clothes,Field Clothe,4,15847.95,Debit Card,Bangalore,Dec-2024,63391.8,Fri
+ORD1163,24-01-2025,CUST866,Electronics,Simply Electronic,4,726.55,Cash on Delivery,Ahmedabad,Jan-2025,2906.2,Fri
+ORD1164,27-07-2025,CUST717,Books,Eight Book,3,12132.56,Wallet,Pune,Jul-2025,36397.68,Sun
+ORD1165,25-10-2024,CUST756,Clothes,Fear Clothe,1,13043.17,Cash on Delivery,Ahmedabad,Oct-2024,13043.17,Fri
+ORD1166,20-08-2025,CUST832,Shoes,Money Shoe,2,3697.78,Cash on Delivery,Pune,Aug-2025,7395.56,Wed
+ORD1167,28-09-2024,CUST916,Shoes,Your Shoe,2,16968.25,Credit Card,Bangalore,Sep-2024,33936.5,Sat
+ORD1168,04-03-2025,CUST898,Books,After Book,4,11681.18,Cash on Delivery,Delhi,Mar-2025,46724.72,Tue
+ORD1169,19-04-2025,CUST207,Clothes,Race Clothe,3,2187.93,UPI,Ahmedabad,Apr-2025,6563.79,Sat
+ORD1170,23-04-2025,CUST520,Furniture,Many Furnitur,1,12700.17,Debit Card,Pune,Apr-2025,12700.17,Wed
+ORD1171,16-11-2024,CUST800,Beauty,Before Beaut,5,2208.84,Credit Card,Bangalore,Nov-2024,11044.2,Sat
+ORD1172,23-06-2025,CUST179,Shoes,Race Shoe,1,15942.48,Wallet,Chennai,Jun-2025,15942.48,Mon
+ORD1173,22-12-2024,CUST694,Books,Garden Book,3,13994.34,Cash on Delivery,Ahmedabad,Dec-2024,41983.02,Sun
+ORD1174,05-06-2025,CUST244,Furniture,Team Furnitur,5,234.91,Debit Card,Hyderabad,Jun-2025,1174.55,Thu
+ORD1175,01-08-2025,CUST785,Furniture,Simply Furnitur,2,9216.56,Wallet,Ahmedabad,Aug-2025,18433.12,Fri
+ORD1176,21-09-2024,CUST438,Clothes,Through Clothe,4,11416.23,Cash on Delivery,Kolkata,Sep-2024,45664.92,Sat
+ORD1177,03-02-2025,CUST492,Clothes,Top Clothe,4,11136.75,UPI,Kolkata,Feb-2025,44547,Mon
+ORD1178,20-08-2025,CUST935,Shoes,Share Shoe,5,15133.43,Credit Card,Chennai,Aug-2025,75667.15,Wed
+ORD1179,14-01-2025,CUST736,Books,Us Book,4,9428.84,Credit Card,Bangalore,Jan-2025,37715.36,Tue
+ORD1180,04-08-2025,CUST289,Books,Else Book,1,15162.04,UPI,Kolkata,Aug-2025,15162.04,Mon
+ORD1181,23-03-2025,CUST922,Beauty,Occur Beaut,2,7012.27,Wallet,Mumbai,Mar-2025,14024.54,Sun
+ORD1182,16-05-2025,CUST761,Electronics,Certainly Electronic,4,7352.94,UPI,Bangalore,May-2025,29411.76,Fri
+ORD1183,09-03-2025,CUST482,Sports,Open Sport,5,12971.96,Cash on Delivery,Hyderabad,Mar-2025,64859.8,Sun
+ORD1184,17-07-2025,CUST402,Furniture,No Furnitur,1,5891.49,Credit Card,Delhi,Jul-2025,5891.49,Thu
+ORD1185,09-07-2025,CUST472,Clothes,Six Clothe,3,18975.58,Credit Card,Mumbai,Jul-2025,56926.74,Wed
+ORD1186,19-02-2025,CUST727,Furniture,Use Furnitur,2,17985.98,Debit Card,Ahmedabad,Feb-2025,35971.96,Wed
+ORD1187,02-02-2025,CUST747,Furniture,Computer Furnitur,1,6995.14,Credit Card,Ahmedabad,Feb-2025,6995.14,Sun
+ORD1188,10-05-2025,CUST835,Clothes,Issue Clothe,2,15381.87,UPI,Kolkata,May-2025,30763.74,Sat
+ORD1189,16-03-2025,CUST354,Beauty,Leave Beaut,1,18320.23,Credit Card,Ahmedabad,Mar-2025,18320.23,Sun
+ORD1190,08-06-2025,CUST702,Books,Drive Book,5,12331.41,Wallet,Hyderabad,Jun-2025,61657.05,Sun
+ORD1191,22-07-2025,CUST928,Sports,Deal Sport,1,2080.05,Cash on Delivery,Delhi,Jul-2025,2080.05,Tue
+ORD1192,14-07-2025,CUST682,Furniture,Culture Furnitur,4,8338.39,Wallet,Delhi,Jul-2025,33353.56,Mon
+ORD1193,21-09-2024,CUST855,Electronics,Front Electronic,5,9537.34,Debit Card,Delhi,Sep-2024,47686.7,Sat
+ORD1194,01-03-2025,CUST907,Shoes,No Shoe,5,11414.35,UPI,Hyderabad,Mar-2025,57071.75,Sat
+ORD1195,01-06-2025,CUST167,Shoes,Individual Shoe,1,3639,Debit Card,Chennai,Jun-2025,3639,Sun
+ORD1196,16-02-2025,CUST854,Furniture,Day Furnitur,2,14294.07,Debit Card,Bangalore,Feb-2025,28588.14,Sun
+ORD1197,07-05-2025,CUST769,Sports,Draw Sport,4,19869.71,Credit Card,Pune,May-2025,79478.84,Wed
+ORD1198,29-08-2025,CUST960,Sports,Determine Sport,3,14680.48,Debit Card,Chennai,Aug-2025,44041.44,Fri
+ORD1199,09-09-2024,CUST233,Books,Bank Book,2,18868.1,Wallet,Bangalore,Sep-2024,37736.2,Mon
+ORD1200,17-09-2024,CUST445,Books,Simply Book,4,11988.99,Cash on Delivery,Delhi,Sep-2024,47955.96,Tue
+ORD1201,25-08-2025,CUST403,Books,Exactly Book,3,6236.63,Cash on Delivery,Mumbai,Aug-2025,18709.89,Mon
+ORD1202,16-04-2025,CUST670,Books,Surface Book,1,11005.62,Credit Card,Hyderabad,Apr-2025,11005.62,Wed
+ORD1203,17-10-2024,CUST653,Clothes,Our Clothe,5,10805.63,UPI,Delhi,Oct-2024,54028.15,Thu
+ORD1204,07-02-2025,CUST315,Sports,Against Sport,1,5399.92,Wallet,Kolkata,Feb-2025,5399.92,Fri
+ORD1205,07-04-2025,CUST313,Electronics,Amount Electronic,4,11036.02,Debit Card,Hyderabad,Apr-2025,44144.08,Mon
+ORD1206,24-02-2025,CUST691,Shoes,Its Shoe,3,15573.15,Cash on Delivery,Kolkata,Feb-2025,46719.45,Mon
+ORD1207,24-11-2024,CUST199,Electronics,Executive Electronic,4,1118.66,Debit Card,Bangalore,Nov-2024,4474.64,Sun
+ORD1208,11-08-2025,CUST400,Shoes,Security Shoe,5,3798.12,UPI,Ahmedabad,Aug-2025,18990.6,Mon
+ORD1209,11-10-2024,CUST146,Shoes,Against Shoe,4,12446.79,Wallet,Ahmedabad,Oct-2024,49787.16,Fri
+ORD1210,26-04-2025,CUST506,Books,Authority Book,1,7445.29,Debit Card,Mumbai,Apr-2025,7445.29,Sat
+ORD1211,20-10-2024,CUST995,Electronics,Marriage Electronic,5,19582.15,Wallet,Chennai,Oct-2024,97910.75,Sun
+ORD1212,26-04-2025,CUST964,Electronics,Enjoy Electronic,3,11046.23,Wallet,Mumbai,Apr-2025,33138.69,Sat
+ORD1213,27-10-2024,CUST717,Sports,Memory Sport,5,11567.04,Cash on Delivery,Ahmedabad,Oct-2024,57835.2,Sun
+ORD1214,29-08-2025,CUST541,Shoes,See Shoe,5,16948.41,Cash on Delivery,Chennai,Aug-2025,84742.05,Fri
+ORD1215,18-06-2025,CUST840,Beauty,Other Beaut,4,17038.7,Credit Card,Bangalore,Jun-2025,68154.8,Wed
+ORD1216,08-09-2024,CUST468,Clothes,Alone Clothe,1,4413.16,UPI,Kolkata,Sep-2024,4413.16,Sun
+ORD1217,13-05-2025,CUST536,Furniture,Course Furnitur,2,17174.84,Debit Card,Bangalore,May-2025,34349.68,Tue
+ORD1218,16-01-2025,CUST628,Clothes,Soldier Clothe,2,7302.19,Debit Card,Ahmedabad,Jan-2025,14604.38,Thu
+ORD1219,28-07-2025,CUST422,Shoes,Particular Shoe,4,465.85,UPI,Chennai,Jul-2025,1863.4,Mon
+ORD1220,04-11-2024,CUST101,Books,Real Book,4,16426.92,Debit Card,Bangalore,Nov-2024,65707.68,Mon
+ORD1221,31-07-2025,CUST396,Beauty,Fear Beaut,4,8852.81,UPI,Ahmedabad,Jul-2025,35411.24,Thu
+ORD1222,16-03-2025,CUST585,Shoes,Important Shoe,2,10045.3,UPI,Chennai,Mar-2025,20090.6,Sun
+ORD1223,11-02-2025,CUST730,Books,Teach Book,3,2968.52,UPI,Ahmedabad,Feb-2025,8905.56,Tue
+ORD1224,25-01-2025,CUST849,Beauty,Since Beaut,1,18915.2,Cash on Delivery,Kolkata,Jan-2025,18915.2,Sat
+ORD1225,19-10-2024,CUST156,Clothes,Young Clothe,2,9158.75,Debit Card,Ahmedabad,Oct-2024,18317.5,Sat
+ORD1226,19-12-2024,CUST477,Shoes,Cup Shoe,2,9509.89,Wallet,Mumbai,Dec-2024,19019.78,Thu
+ORD1227,10-06-2025,CUST900,Furniture,Break Furnitur,2,5887.17,Wallet,Delhi,Jun-2025,11774.34,Tue
+ORD1228,07-02-2025,CUST941,Electronics,Fish Electronic,3,4030.13,UPI,Chennai,Feb-2025,12090.39,Fri
+ORD1229,23-12-2024,CUST893,Electronics,Pay Electronic,4,10855.75,UPI,Pune,Dec-2024,43423,Mon
+ORD1230,19-12-2024,CUST776,Books,Owner Book,4,2967.27,Wallet,Bangalore,Dec-2024,11869.08,Thu
+ORD1231,06-05-2025,CUST964,Furniture,Dark Furnitur,1,8391.35,Cash on Delivery,Mumbai,May-2025,8391.35,Tue
+ORD1232,29-04-2025,CUST347,Furniture,Budget Furnitur,5,6813.05,UPI,Mumbai,Apr-2025,34065.25,Tue
+ORD1233,14-09-2024,CUST552,Electronics,Keep Electronic,2,12963.43,Cash on Delivery,Delhi,Sep-2024,25926.86,Sat
+ORD1234,30-08-2025,CUST577,Beauty,Picture Beaut,2,704.17,Cash on Delivery,Mumbai,Aug-2025,1408.34,Sat
+ORD1235,04-04-2025,CUST961,Books,Now Book,2,15184.06,UPI,Bangalore,Apr-2025,30368.12,Fri
+ORD1236,26-10-2024,CUST102,Furniture,Close Furnitur,3,12538.06,Debit Card,Pune,Oct-2024,37614.18,Sat
+ORD1237,11-06-2025,CUST217,Shoes,When Shoe,3,2884.85,Credit Card,Delhi,Jun-2025,8654.55,Wed
+ORD1238,29-10-2024,CUST463,Books,Already Book,4,6791.44,Debit Card,Pune,Oct-2024,27165.76,Tue
+ORD1239,25-07-2025,CUST514,Electronics,Friend Electronic,5,721.83,Wallet,Mumbai,Jul-2025,3609.15,Fri
+ORD1240,28-04-2025,CUST533,Books,Could Book,3,12929.18,Debit Card,Delhi,Apr-2025,38787.54,Mon
+ORD1241,12-11-2024,CUST439,Furniture,Knowledge Furnitur,1,15369.3,Cash on Delivery,Pune,Nov-2024,15369.3,Tue
+ORD1242,23-11-2024,CUST676,Sports,Seat Sport,1,2999.67,Debit Card,Hyderabad,Nov-2024,2999.67,Sat
+ORD1243,08-01-2025,CUST981,Books,Rock Book,3,16694.17,Credit Card,Bangalore,Jan-2025,50082.51,Wed
+ORD1244,02-08-2025,CUST747,Shoes,System Shoe,2,15919.78,Wallet,Ahmedabad,Aug-2025,31839.56,Sat
+ORD1245,23-02-2025,CUST746,Beauty,Future Beaut,4,13856.39,Credit Card,Delhi,Feb-2025,55425.56,Sun
+ORD1246,17-09-2024,CUST156,Books,Seem Book,2,2507.76,Credit Card,Chennai,Sep-2024,5015.52,Tue
+ORD1247,14-10-2024,CUST126,Books,Consumer Book,2,19775.95,Credit Card,Hyderabad,Oct-2024,39551.9,Mon
+ORD1248,02-08-2025,CUST608,Shoes,Heart Shoe,2,4875.92,Debit Card,Bangalore,Aug-2025,9751.84,Sat
+ORD1249,11-04-2025,CUST951,Sports,Run Sport,5,9966.08,Wallet,Pune,Apr-2025,49830.4,Fri
+ORD1250,28-10-2024,CUST455,Clothes,Community Clothe,5,12066.14,UPI,Chennai,Oct-2024,60330.7,Mon
+ORD1251,23-09-2024,CUST390,Clothes,Identify Clothe,5,8351.52,Wallet,Ahmedabad,Sep-2024,41757.6,Mon
+ORD1252,21-03-2025,CUST371,Clothes,Speech Clothe,5,15097.06,Wallet,Hyderabad,Mar-2025,75485.3,Fri
+ORD1253,11-12-2024,CUST534,Beauty,Wish Beaut,3,15740.7,Cash on Delivery,Mumbai,Dec-2024,47222.1,Wed
+ORD1254,11-06-2025,CUST665,Beauty,Appear Beaut,1,3831.86,Credit Card,Ahmedabad,Jun-2025,3831.86,Wed
+ORD1255,30-03-2025,CUST765,Beauty,Middle Beaut,5,6933.38,Wallet,Kolkata,Mar-2025,34666.9,Sun
+ORD1256,22-03-2025,CUST846,Clothes,Wife Clothe,4,7164.61,Cash on Delivery,Pune,Mar-2025,28658.44,Sat
+ORD1257,09-02-2025,CUST914,Sports,Information Sport,1,14613.84,Cash on Delivery,Kolkata,Feb-2025,14613.84,Sun
+ORD1258,03-07-2025,CUST648,Clothes,By Clothe,3,3763.41,Credit Card,Delhi,Jul-2025,11290.23,Thu
+ORD1259,12-08-2025,CUST710,Furniture,Mrs Furnitur,4,18178.18,UPI,Pune,Aug-2025,72712.72,Tue
+ORD1260,07-10-2024,CUST242,Beauty,Black Beaut,4,3470.71,Credit Card,Hyderabad,Oct-2024,13882.84,Mon
+ORD1261,12-07-2025,CUST202,Beauty,Leg Beaut,2,5513.49,Debit Card,Chennai,Jul-2025,11026.98,Sat
+ORD1262,20-12-2024,CUST536,Shoes,Join Shoe,4,13834,Credit Card,Mumbai,Dec-2024,55336,Fri
+ORD1263,29-12-2024,CUST895,Beauty,Man Beaut,4,2842.34,UPI,Ahmedabad,Dec-2024,11369.36,Sun
+ORD1264,20-10-2024,CUST408,Beauty,World Beaut,4,14979.88,Credit Card,Kolkata,Oct-2024,59919.52,Sun
+ORD1265,13-08-2025,CUST187,Electronics,Discussion Electronic,4,3143.97,Cash on Delivery,Hyderabad,Aug-2025,12575.88,Wed
+ORD1266,06-08-2025,CUST511,Beauty,Cost Beaut,1,10711.02,Debit Card,Chennai,Aug-2025,10711.02,Wed
+ORD1267,17-06-2025,CUST713,Furniture,Develop Furnitur,5,18405.11,Debit Card,Pune,Jun-2025,92025.55,Tue
+ORD1268,21-08-2025,CUST574,Sports,Ball Sport,3,10984.29,Debit Card,Kolkata,Aug-2025,32952.87,Thu
+ORD1269,22-11-2024,CUST989,Furniture,Information Furnitur,3,6300.75,Debit Card,Bangalore,Nov-2024,18902.25,Fri
+ORD1270,19-04-2025,CUST366,Clothes,Across Clothe,5,8299.27,Cash on Delivery,Chennai,Apr-2025,41496.35,Sat
+ORD1271,26-03-2025,CUST587,Sports,World Sport,1,3187.17,Cash on Delivery,Delhi,Mar-2025,3187.17,Wed
+ORD1272,13-12-2024,CUST531,Furniture,Education Furnitur,4,17132.39,Cash on Delivery,Bangalore,Dec-2024,68529.56,Fri
+ORD1273,26-08-2025,CUST752,Clothes,But Clothe,1,12451.48,Credit Card,Pune,Aug-2025,12451.48,Tue
+ORD1274,25-05-2025,CUST421,Books,Easy Book,2,13531.73,Credit Card,Pune,May-2025,27063.46,Sun
+ORD1275,16-05-2025,CUST872,Books,Tree Book,2,10176.58,Credit Card,Delhi,May-2025,20353.16,Fri
+ORD1276,24-12-2024,CUST863,Sports,Outside Sport,1,4388.11,Wallet,Chennai,Dec-2024,4388.11,Tue
+ORD1277,23-06-2025,CUST972,Electronics,Material Electronic,1,12818.53,Credit Card,Pune,Jun-2025,12818.53,Mon
+ORD1278,19-05-2025,CUST304,Furniture,Without Furnitur,3,8042.13,UPI,Hyderabad,May-2025,24126.39,Mon
+ORD1279,25-02-2025,CUST738,Beauty,Recent Beaut,5,13039.96,Credit Card,Pune,Feb-2025,65199.8,Tue
+ORD1280,21-08-2025,CUST474,Sports,This Sport,2,3234.62,UPI,Delhi,Aug-2025,6469.24,Thu
+ORD1281,25-01-2025,CUST254,Sports,Number Sport,4,7644.5,Cash on Delivery,Delhi,Jan-2025,30578,Sat
+ORD1282,08-06-2025,CUST325,Beauty,Growth Beaut,5,6146.16,Debit Card,Chennai,Jun-2025,30730.8,Sun
+ORD1283,21-11-2024,CUST734,Beauty,Tv Beaut,3,7273.87,UPI,Chennai,Nov-2024,21821.61,Thu
+ORD1284,11-11-2024,CUST138,Sports,Oil Sport,3,3349.88,UPI,Delhi,Nov-2024,10049.64,Mon
+ORD1285,11-02-2025,CUST489,Electronics,As Electronic,1,5724.21,Wallet,Delhi,Feb-2025,5724.21,Tue
+ORD1286,05-11-2024,CUST371,Sports,Measure Sport,2,3305.72,Wallet,Delhi,Nov-2024,6611.44,Tue
+ORD1287,22-07-2025,CUST607,Electronics,Any Electronic,3,14246.65,Cash on Delivery,Ahmedabad,Jul-2025,42739.95,Tue
+ORD1288,07-04-2025,CUST278,Furniture,Cost Furnitur,4,12131.04,UPI,Pune,Apr-2025,48524.16,Mon
+ORD1289,17-08-2025,CUST695,Electronics,Federal Electronic,3,10075.06,UPI,Hyderabad,Aug-2025,30225.18,Sun
+ORD1290,04-12-2024,CUST400,Clothes,Individual Clothe,4,2036.81,Debit Card,Kolkata,Dec-2024,8147.24,Wed
+ORD1291,12-04-2025,CUST150,Clothes,Somebody Clothe,4,16587.26,Credit Card,Chennai,Apr-2025,66349.04,Sat
+ORD1292,26-07-2025,CUST182,Clothes,Never Clothe,2,19990.62,Cash on Delivery,Mumbai,Jul-2025,39981.24,Sat
+ORD1293,18-05-2025,CUST653,Beauty,Control Beaut,1,19369.41,Cash on Delivery,Delhi,May-2025,19369.41,Sun
+ORD1294,06-03-2025,CUST375,Books,Decide Book,3,10291.14,Wallet,Hyderabad,Mar-2025,30873.42,Thu
+ORD1295,23-06-2025,CUST668,Clothes,Leave Clothe,3,12495.6,UPI,Hyderabad,Jun-2025,37486.8,Mon
+ORD1296,05-09-2024,CUST457,Furniture,Response Furnitur,4,3393.26,Wallet,Ahmedabad,Sep-2024,13573.04,Thu
+ORD1297,28-05-2025,CUST612,Sports,Compare Sport,4,17221.07,UPI,Delhi,May-2025,68884.28,Wed
+ORD1298,07-12-2024,CUST665,Beauty,Whether Beaut,5,8273.27,Debit Card,Hyderabad,Dec-2024,41366.35,Sat
+ORD1299,09-06-2025,CUST493,Clothes,Evening Clothe,2,13594.12,UPI,Bangalore,Jun-2025,27188.24,Mon
+ORD1300,23-03-2025,CUST539,Electronics,Treatment Electronic,3,19949.46,Credit Card,Delhi,Mar-2025,59848.38,Sun
+ORD1301,15-01-2025,CUST867,Electronics,Human Electronic,2,4580.99,UPI,Pune,Jan-2025,9161.98,Wed
+ORD1302,24-09-2024,CUST172,Beauty,Show Beaut,1,7007.98,Credit Card,Kolkata,Sep-2024,7007.98,Tue
+ORD1303,02-09-2024,CUST868,Electronics,Allow Electronic,1,4897.26,UPI,Hyderabad,Sep-2024,4897.26,Mon
+ORD1304,05-05-2025,CUST493,Beauty,You Beaut,3,15597.04,Wallet,Mumbai,May-2025,46791.12,Mon
+ORD1305,07-04-2025,CUST310,Beauty,List Beaut,2,12199.01,Wallet,Chennai,Apr-2025,24398.02,Mon
+ORD1306,06-05-2025,CUST883,Electronics,Someone Electronic,3,18995.27,UPI,Bangalore,May-2025,56985.81,Tue
+ORD1307,27-07-2025,CUST660,Beauty,Strategy Beaut,4,8204.59,Credit Card,Bangalore,Jul-2025,32818.36,Sun
+ORD1308,14-09-2024,CUST689,Books,Large Book,2,7090.68,Credit Card,Delhi,Sep-2024,14181.36,Sat
+ORD1309,06-10-2024,CUST670,Clothes,Help Clothe,4,8487.89,Wallet,Delhi,Oct-2024,33951.56,Sun
+ORD1310,09-11-2024,CUST592,Shoes,Indicate Shoe,1,14379.74,Wallet,Pune,Nov-2024,14379.74,Sat
+ORD1311,27-05-2025,CUST382,Electronics,Argue Electronic,1,2937.12,Credit Card,Pune,May-2025,2937.12,Tue
+ORD1312,29-05-2025,CUST893,Furniture,Cut Furnitur,3,12137.11,UPI,Delhi,May-2025,36411.33,Thu
+ORD1313,09-02-2025,CUST433,Electronics,Computer Electronic,5,7651.78,UPI,Bangalore,Feb-2025,38258.9,Sun
+ORD1314,20-01-2025,CUST618,Shoes,Your Shoe,3,15632.75,Wallet,Pune,Jan-2025,46898.25,Mon
+ORD1315,11-03-2025,CUST775,Beauty,Way Beaut,2,19448.45,Wallet,Kolkata,Mar-2025,38896.9,Tue
+ORD1316,19-09-2024,CUST820,Electronics,They Electronic,1,16532.01,Wallet,Pune,Sep-2024,16532.01,Thu
+ORD1317,11-08-2025,CUST437,Clothes,Word Clothe,3,12945.61,UPI,Ahmedabad,Aug-2025,38836.83,Mon
+ORD1318,03-10-2024,CUST821,Clothes,Keep Clothe,1,4612.02,Cash on Delivery,Mumbai,Oct-2024,4612.02,Thu
+ORD1319,26-12-2024,CUST626,Furniture,Teach Furnitur,3,9802.97,Debit Card,Hyderabad,Dec-2024,29408.91,Thu
+ORD1320,06-01-2025,CUST321,Shoes,Alone Shoe,4,4934.48,Cash on Delivery,Ahmedabad,Jan-2025,19737.92,Mon
+ORD1321,11-08-2025,CUST452,Sports,Wear Sport,5,5934.97,Credit Card,Kolkata,Aug-2025,29674.85,Mon
+ORD1322,29-04-2025,CUST874,Furniture,Color Furnitur,2,13314.94,Cash on Delivery,Delhi,Apr-2025,26629.88,Tue
+ORD1323,07-02-2025,CUST307,Books,Stuff Book,1,14191.42,Credit Card,Chennai,Feb-2025,14191.42,Fri
+ORD1324,18-01-2025,CUST167,Electronics,Customer Electronic,1,18434.97,UPI,Pune,Jan-2025,18434.97,Sat
+ORD1325,30-05-2025,CUST721,Furniture,Mind Furnitur,2,13786.24,UPI,Kolkata,May-2025,27572.48,Fri
+ORD1326,22-05-2025,CUST785,Furniture,Employee Furnitur,2,7307.68,Credit Card,Kolkata,May-2025,14615.36,Thu
+ORD1327,02-06-2025,CUST724,Electronics,Heavy Electronic,2,18839.81,Wallet,Chennai,Jun-2025,37679.62,Mon
+ORD1328,28-07-2025,CUST989,Sports,Special Sport,4,15694.44,Wallet,Hyderabad,Jul-2025,62777.76,Mon
+ORD1329,03-11-2024,CUST685,Clothes,Smile Clothe,1,15800.42,Debit Card,Mumbai,Nov-2024,15800.42,Sun
+ORD1330,28-12-2024,CUST198,Clothes,Green Clothe,3,18824.59,Credit Card,Bangalore,Dec-2024,56473.77,Sat
+ORD1331,22-08-2025,CUST762,Furniture,Image Furnitur,4,9763.02,UPI,Ahmedabad,Aug-2025,39052.08,Fri
+ORD1332,31-01-2025,CUST347,Books,Speak Book,2,10735.51,Debit Card,Pune,Jan-2025,21471.02,Fri
+ORD1333,13-03-2025,CUST515,Shoes,Audience Shoe,3,5414.81,Debit Card,Hyderabad,Mar-2025,16244.43,Thu
+ORD1334,11-03-2025,CUST334,Beauty,Campaign Beaut,1,15653.74,Credit Card,Mumbai,Mar-2025,15653.74,Tue
+ORD1335,15-03-2025,CUST406,Furniture,Business Furnitur,4,6250.02,Debit Card,Chennai,Mar-2025,25000.08,Sat
+ORD1336,24-10-2024,CUST600,Furniture,Music Furnitur,3,9343.77,Wallet,Hyderabad,Oct-2024,28031.31,Thu
+ORD1337,19-01-2025,CUST645,Clothes,Identify Clothe,5,14266.7,Debit Card,Bangalore,Jan-2025,71333.5,Sun
+ORD1338,12-06-2025,CUST452,Books,Practice Book,3,6927.43,UPI,Pune,Jun-2025,20782.29,Thu
+ORD1339,20-02-2025,CUST824,Clothes,Model Clothe,2,6939.01,Credit Card,Mumbai,Feb-2025,13878.02,Thu
+ORD1340,27-03-2025,CUST307,Furniture,Side Furnitur,4,17443.4,Debit Card,Mumbai,Mar-2025,69773.6,Thu
+ORD1341,11-01-2025,CUST383,Beauty,Grow Beaut,2,12225.82,Debit Card,Ahmedabad,Jan-2025,24451.64,Sat
+ORD1342,10-12-2024,CUST116,Furniture,Simple Furnitur,4,1029.1,UPI,Chennai,Dec-2024,4116.4,Tue
+ORD1343,26-03-2025,CUST545,Books,Expect Book,4,8051.5,UPI,Ahmedabad,Mar-2025,32206,Wed
+ORD1344,12-11-2024,CUST187,Shoes,Network Shoe,1,11382.91,Cash on Delivery,Kolkata,Nov-2024,11382.91,Tue
+ORD1345,18-06-2025,CUST946,Sports,Herself Sport,2,8839.25,Debit Card,Delhi,Jun-2025,17678.5,Wed
+ORD1346,29-05-2025,CUST480,Electronics,Forward Electronic,1,248.89,Credit Card,Mumbai,May-2025,248.89,Thu
+ORD1347,01-09-2024,CUST402,Books,Point Book,1,16594.79,Credit Card,Kolkata,Sep-2024,16594.79,Sun
+ORD1348,26-07-2025,CUST297,Sports,Police Sport,1,5736.55,Credit Card,Delhi,Jul-2025,5736.55,Sat
+ORD1349,22-04-2025,CUST896,Sports,Bill Sport,4,2812.73,Cash on Delivery,Bangalore,Apr-2025,11250.92,Tue
+ORD1350,25-10-2024,CUST342,Furniture,Or Furnitur,4,13895.49,Credit Card,Hyderabad,Oct-2024,55581.96,Fri
+ORD1351,17-08-2025,CUST976,Books,Stand Book,4,4088.83,Credit Card,Pune,Aug-2025,16355.32,Sun
+ORD1352,12-11-2024,CUST963,Furniture,Turn Furnitur,5,17609.32,Debit Card,Pune,Nov-2024,88046.6,Tue
+ORD1353,28-08-2025,CUST760,Books,Learn Book,5,13861.65,Credit Card,Mumbai,Aug-2025,69308.25,Thu
+ORD1354,06-12-2024,CUST483,Furniture,Guy Furnitur,3,18307.8,Debit Card,Ahmedabad,Dec-2024,54923.4,Fri
+ORD1355,08-03-2025,CUST888,Books,Activity Book,2,1541.17,Credit Card,Chennai,Mar-2025,3082.34,Sat
+ORD1356,03-05-2025,CUST239,Books,Few Book,1,918.57,Credit Card,Chennai,May-2025,918.57,Sat
+ORD1357,03-11-2024,CUST901,Clothes,All Clothe,3,9573.31,Credit Card,Ahmedabad,Nov-2024,28719.93,Sun
+ORD1358,17-02-2025,CUST655,Furniture,Crime Furnitur,2,8701.52,UPI,Kolkata,Feb-2025,17403.04,Mon
+ORD1359,11-11-2024,CUST407,Furniture,Up Furnitur,2,5618.99,Credit Card,Bangalore,Nov-2024,11237.98,Mon
+ORD1360,12-11-2024,CUST578,Furniture,One Furnitur,1,12973.95,Cash on Delivery,Mumbai,Nov-2024,12973.95,Tue
+ORD1361,04-03-2025,CUST381,Beauty,Plan Beaut,1,8527.95,Wallet,Delhi,Mar-2025,8527.95,Tue
+ORD1362,24-09-2024,CUST723,Beauty,One Beaut,1,6029.71,Credit Card,Bangalore,Sep-2024,6029.71,Tue
+ORD1363,14-02-2025,CUST688,Shoes,Send Shoe,4,17478.78,Cash on Delivery,Hyderabad,Feb-2025,69915.12,Fri
+ORD1364,28-03-2025,CUST759,Beauty,Thing Beaut,2,9830.15,Cash on Delivery,Kolkata,Mar-2025,19660.3,Fri
+ORD1365,18-09-2024,CUST962,Beauty,Level Beaut,2,6362.75,Cash on Delivery,Mumbai,Sep-2024,12725.5,Wed
+ORD1366,13-04-2025,CUST325,Beauty,Should Beaut,1,6132.67,Wallet,Pune,Apr-2025,6132.67,Sun
+ORD1367,08-06-2025,CUST731,Beauty,Support Beaut,2,7689.84,UPI,Pune,Jun-2025,15379.68,Sun
+ORD1368,19-04-2025,CUST293,Sports,Majority Sport,2,1495.93,Wallet,Mumbai,Apr-2025,2991.86,Sat
+ORD1369,09-11-2024,CUST466,Books,None Book,5,17556.19,Cash on Delivery,Delhi,Nov-2024,87780.95,Sat
+ORD1370,14-07-2025,CUST883,Clothes,Bag Clothe,2,18758.03,UPI,Pune,Jul-2025,37516.06,Mon
+ORD1371,11-11-2024,CUST883,Clothes,Appear Clothe,3,8421.81,Wallet,Pune,Nov-2024,25265.43,Mon
+ORD1372,11-05-2025,CUST651,Furniture,Kitchen Furnitur,4,14307.61,Cash on Delivery,Delhi,May-2025,57230.44,Sun
+ORD1373,06-04-2025,CUST898,Beauty,Physical Beaut,2,215.79,Wallet,Bangalore,Apr-2025,431.58,Sun
+ORD1374,02-12-2024,CUST231,Books,Democratic Book,1,6715.44,Wallet,Hyderabad,Dec-2024,6715.44,Mon
+ORD1375,01-11-2024,CUST235,Shoes,Pass Shoe,2,14864.86,Debit Card,Kolkata,Nov-2024,29729.72,Fri
+ORD1376,25-03-2025,CUST839,Shoes,Short Shoe,1,5498.07,Wallet,Pune,Mar-2025,5498.07,Tue
+ORD1377,19-06-2025,CUST638,Beauty,Natural Beaut,5,10824.16,UPI,Delhi,Jun-2025,54120.8,Thu
+ORD1378,26-03-2025,CUST923,Furniture,Since Furnitur,2,19551.93,Wallet,Kolkata,Mar-2025,39103.86,Wed
+ORD1379,14-01-2025,CUST203,Shoes,Station Shoe,2,10737.71,Debit Card,Ahmedabad,Jan-2025,21475.42,Tue
+ORD1380,26-06-2025,CUST538,Furniture,Control Furnitur,2,11398.3,Cash on Delivery,Bangalore,Jun-2025,22796.6,Thu
+ORD1381,05-05-2025,CUST786,Furniture,Blood Furnitur,3,12441.91,UPI,Pune,May-2025,37325.73,Mon
+ORD1382,15-05-2025,CUST745,Beauty,Represent Beaut,5,966.43,Cash on Delivery,Chennai,May-2025,4832.15,Thu
+ORD1383,21-09-2024,CUST100,Furniture,Somebody Furnitur,5,8455.43,Wallet,Mumbai,Sep-2024,42277.15,Sat
+ORD1384,25-04-2025,CUST760,Beauty,Finally Beaut,1,8019.14,Wallet,Kolkata,Apr-2025,8019.14,Fri
+ORD1385,17-11-2024,CUST690,Clothes,Test Clothe,1,9073.5,Cash on Delivery,Pune,Nov-2024,9073.5,Sun
+ORD1386,03-08-2025,CUST793,Books,Return Book,5,14793.61,Cash on Delivery,Mumbai,Aug-2025,73968.05,Sun
+ORD1387,12-02-2025,CUST978,Shoes,Only Shoe,4,3642.39,Wallet,Ahmedabad,Feb-2025,14569.56,Wed
+ORD1388,10-06-2025,CUST429,Books,Attorney Book,4,7256.24,UPI,Bangalore,Jun-2025,29024.96,Tue
+ORD1389,27-12-2024,CUST770,Shoes,Machine Shoe,5,11670.13,UPI,Mumbai,Dec-2024,58350.65,Fri
+ORD1390,17-01-2025,CUST250,Books,Appear Book,2,13933.59,Debit Card,Ahmedabad,Jan-2025,27867.18,Fri
+ORD1391,30-04-2025,CUST299,Furniture,Again Furnitur,2,1508.97,UPI,Hyderabad,Apr-2025,3017.94,Wed
+ORD1392,01-04-2025,CUST801,Beauty,Federal Beaut,5,1644.85,Wallet,Kolkata,Apr-2025,8224.25,Tue
+ORD1393,09-01-2025,CUST322,Clothes,Design Clothe,1,5961.96,Cash on Delivery,Pune,Jan-2025,5961.96,Thu
+ORD1394,20-12-2024,CUST243,Electronics,Nor Electronic,2,3826.8,Wallet,Ahmedabad,Dec-2024,7653.6,Fri
+ORD1395,09-04-2025,CUST711,Furniture,Have Furnitur,4,10250.75,Debit Card,Mumbai,Apr-2025,41003,Wed
+ORD1396,21-11-2024,CUST988,Clothes,Instead Clothe,4,18205.99,Wallet,Kolkata,Nov-2024,72823.96,Thu
+ORD1397,30-05-2025,CUST774,Books,No Book,2,6755.68,Credit Card,Bangalore,May-2025,13511.36,Fri
+ORD1398,27-08-2025,CUST840,Shoes,Early Shoe,1,3725.24,Wallet,Mumbai,Aug-2025,3725.24,Wed
+ORD1399,14-11-2024,CUST669,Shoes,Project Shoe,2,7020.95,Cash on Delivery,Pune,Nov-2024,14041.9,Thu
+ORD1400,23-05-2025,CUST908,Furniture,Adult Furnitur,5,8832.42,Wallet,Chennai,May-2025,44162.1,Fri
+ORD1401,15-07-2025,CUST249,Electronics,Here Electronic,1,16285.7,Credit Card,Bangalore,Jul-2025,16285.7,Tue
+ORD1402,14-02-2025,CUST412,Furniture,Own Furnitur,2,6682.43,Credit Card,Mumbai,Feb-2025,13364.86,Fri
+ORD1403,29-03-2025,CUST129,Books,Fast Book,2,2784.43,Debit Card,Chennai,Mar-2025,5568.86,Sat
+ORD1404,22-08-2025,CUST999,Sports,General Sport,4,4282.26,Debit Card,Chennai,Aug-2025,17129.04,Fri
+ORD1405,24-12-2024,CUST930,Books,Draw Book,4,5624.5,Cash on Delivery,Mumbai,Dec-2024,22498,Tue
+ORD1406,25-10-2024,CUST571,Furniture,Production Furnitur,1,17833.75,Wallet,Chennai,Oct-2024,17833.75,Fri
+ORD1407,31-08-2024,CUST210,Shoes,Eye Shoe,3,12514.32,Cash on Delivery,Delhi,Aug-2024,37542.96,Sat
+ORD1408,16-06-2025,CUST975,Shoes,Kind Shoe,5,10074.05,Debit Card,Chennai,Jun-2025,50370.25,Mon
+ORD1409,22-04-2025,CUST729,Furniture,Want Furnitur,3,4544.43,Cash on Delivery,Pune,Apr-2025,13633.29,Tue
+ORD1410,19-11-2024,CUST646,Electronics,Force Electronic,1,9709.01,Debit Card,Mumbai,Nov-2024,9709.01,Tue
+ORD1411,19-10-2024,CUST488,Books,Writer Book,2,16589.75,Cash on Delivery,Bangalore,Oct-2024,33179.5,Sat
+ORD1412,29-05-2025,CUST127,Furniture,Create Furnitur,4,15445.76,Cash on Delivery,Chennai,May-2025,61783.04,Thu
+ORD1413,04-01-2025,CUST299,Clothes,Place Clothe,3,2794.99,Cash on Delivery,Bangalore,Jan-2025,8384.97,Sat
+ORD1414,05-11-2024,CUST378,Beauty,Let Beaut,5,9645.92,Credit Card,Ahmedabad,Nov-2024,48229.6,Tue
+ORD1415,17-07-2025,CUST565,Books,Term Book,5,17519.46,UPI,Hyderabad,Jul-2025,87597.3,Thu
+ORD1416,21-01-2025,CUST537,Sports,Guess Sport,4,5166.94,UPI,Delhi,Jan-2025,20667.76,Tue
+ORD1417,30-11-2024,CUST290,Sports,Seat Sport,2,396.08,Debit Card,Chennai,Nov-2024,792.16,Sat
+ORD1418,01-01-2025,CUST218,Sports,Box Sport,4,19285.04,Debit Card,Chennai,Jan-2025,77140.16,Wed
+ORD1419,02-11-2024,CUST260,Clothes,Several Clothe,1,8623.69,Cash on Delivery,Bangalore,Nov-2024,8623.69,Sat
+ORD1420,14-10-2024,CUST959,Furniture,Too Furnitur,3,7447.78,Wallet,Delhi,Oct-2024,22343.34,Mon
+ORD1421,20-11-2024,CUST525,Beauty,After Beaut,1,3185.2,Cash on Delivery,Mumbai,Nov-2024,3185.2,Wed
+ORD1422,27-05-2025,CUST997,Clothes,Note Clothe,4,3016.58,Debit Card,Hyderabad,May-2025,12066.32,Tue
+ORD1423,26-12-2024,CUST674,Electronics,Eye Electronic,5,9445.72,Debit Card,Ahmedabad,Dec-2024,47228.6,Thu
+ORD1424,11-06-2025,CUST545,Beauty,Little Beaut,2,2313.54,Credit Card,Delhi,Jun-2025,4627.08,Wed
+ORD1425,03-12-2024,CUST379,Books,Member Book,2,8791.08,Debit Card,Pune,Dec-2024,17582.16,Tue
+ORD1426,08-10-2024,CUST626,Clothes,Cost Clothe,1,16732.61,Debit Card,Pune,Oct-2024,16732.61,Tue
+ORD1427,09-08-2025,CUST456,Beauty,Herself Beaut,5,17934.41,Cash on Delivery,Delhi,Aug-2025,89672.05,Sat
+ORD1428,04-08-2025,CUST601,Furniture,Situation Furnitur,4,17425.27,Cash on Delivery,Chennai,Aug-2025,69701.08,Mon
+ORD1429,23-03-2025,CUST132,Furniture,Behavior Furnitur,3,18894.77,Credit Card,Bangalore,Mar-2025,56684.31,Sun
+ORD1430,07-05-2025,CUST308,Shoes,No Shoe,3,14882.32,Wallet,Mumbai,May-2025,44646.96,Wed
+ORD1431,24-05-2025,CUST801,Sports,Marriage Sport,1,4235.12,Debit Card,Ahmedabad,May-2025,4235.12,Sat
+ORD1432,27-04-2025,CUST921,Furniture,Whatever Furnitur,4,16829.39,Debit Card,Bangalore,Apr-2025,67317.56,Sun
+ORD1433,07-03-2025,CUST819,Sports,Window Sport,5,13643.95,Credit Card,Ahmedabad,Mar-2025,68219.75,Fri
+ORD1434,02-07-2025,CUST121,Electronics,Help Electronic,4,5364.78,Wallet,Pune,Jul-2025,21459.12,Wed
+ORD1435,09-10-2024,CUST611,Beauty,Wait Beaut,1,7135.92,Credit Card,Chennai,Oct-2024,7135.92,Wed
+ORD1436,16-07-2025,CUST382,Shoes,Almost Shoe,4,7210.33,Cash on Delivery,Pune,Jul-2025,28841.32,Wed
+ORD1437,17-08-2025,CUST818,Beauty,Could Beaut,4,5277.25,Cash on Delivery,Pune,Aug-2025,21109,Sun
+ORD1438,06-07-2025,CUST229,Books,Space Book,2,9600.98,Wallet,Mumbai,Jul-2025,19201.96,Sun
+ORD1439,03-11-2024,CUST301,Clothes,Value Clothe,1,4669.44,Wallet,Hyderabad,Nov-2024,4669.44,Sun
+ORD1440,29-12-2024,CUST602,Electronics,Out Electronic,1,9268.57,Credit Card,Mumbai,Dec-2024,9268.57,Sun
+ORD1441,12-06-2025,CUST519,Shoes,Piece Shoe,1,19301.46,Cash on Delivery,Hyderabad,Jun-2025,19301.46,Thu
+ORD1442,04-03-2025,CUST513,Electronics,Decide Electronic,4,19633.23,Debit Card,Bangalore,Mar-2025,78532.92,Tue
+ORD1443,05-01-2025,CUST502,Sports,Pay Sport,2,1663.8,Cash on Delivery,Pune,Jan-2025,3327.6,Sun
+ORD1444,28-12-2024,CUST518,Books,Wall Book,4,18236.2,Debit Card,Chennai,Dec-2024,72944.8,Sat
+ORD1445,18-08-2025,CUST495,Shoes,Weight Shoe,2,10476.22,Cash on Delivery,Bangalore,Aug-2025,20952.44,Mon
+ORD1446,09-06-2025,CUST164,Books,Theory Book,2,12874.67,Cash on Delivery,Ahmedabad,Jun-2025,25749.34,Mon
+ORD1447,22-08-2025,CUST203,Electronics,Production Electronic,4,11959.87,Credit Card,Delhi,Aug-2025,47839.48,Fri
+ORD1448,05-11-2024,CUST441,Sports,Everybody Sport,2,8179.14,UPI,Mumbai,Nov-2024,16358.28,Tue
+ORD1449,18-09-2024,CUST931,Beauty,Amount Beaut,1,9152.87,Debit Card,Chennai,Sep-2024,9152.87,Wed
+ORD1450,04-07-2025,CUST556,Sports,Like Sport,3,9949.39,UPI,Hyderabad,Jul-2025,29848.17,Fri
+ORD1451,04-05-2025,CUST568,Beauty,Our Beaut,4,4412.25,Wallet,Pune,May-2025,17649,Sun
+ORD1452,27-02-2025,CUST770,Clothes,Occur Clothe,2,5188.55,Cash on Delivery,Hyderabad,Feb-2025,10377.1,Thu
+ORD1453,18-02-2025,CUST613,Sports,Decade Sport,4,11425.46,Credit Card,Delhi,Feb-2025,45701.84,Tue
+ORD1454,09-01-2025,CUST997,Clothes,Begin Clothe,3,3540.13,Wallet,Delhi,Jan-2025,10620.39,Thu
+ORD1455,08-08-2025,CUST908,Clothes,Pay Clothe,5,17303.77,UPI,Ahmedabad,Aug-2025,86518.85,Fri
+ORD1456,26-03-2025,CUST420,Clothes,Cause Clothe,3,7743.97,Wallet,Bangalore,Mar-2025,23231.91,Wed
+ORD1457,25-07-2025,CUST883,Shoes,Item Shoe,2,5230.03,UPI,Ahmedabad,Jul-2025,10460.06,Fri
+ORD1458,09-03-2025,CUST792,Clothes,College Clothe,2,1634.32,Cash on Delivery,Hyderabad,Mar-2025,3268.64,Sun
+ORD1459,15-08-2025,CUST931,Books,Reduce Book,2,14569.52,Debit Card,Mumbai,Aug-2025,29139.04,Fri
+ORD1460,28-07-2025,CUST141,Electronics,Turn Electronic,2,16116.84,Wallet,Mumbai,Jul-2025,32233.68,Mon
+ORD1461,21-11-2024,CUST279,Shoes,Loss Shoe,4,4836.67,Cash on Delivery,Hyderabad,Nov-2024,19346.68,Thu
+ORD1462,28-07-2025,CUST670,Clothes,Say Clothe,2,14749.94,Wallet,Chennai,Jul-2025,29499.88,Mon
+ORD1463,10-09-2024,CUST585,Shoes,Assume Shoe,1,3218.84,UPI,Ahmedabad,Sep-2024,3218.84,Tue
+ORD1464,16-02-2025,CUST702,Clothes,Operation Clothe,1,10464.91,Wallet,Delhi,Feb-2025,10464.91,Sun
+ORD1465,05-11-2024,CUST275,Clothes,Reach Clothe,2,14689.38,Cash on Delivery,Kolkata,Nov-2024,29378.76,Tue
+ORD1466,15-06-2025,CUST751,Electronics,Life Electronic,3,16580.56,UPI,Pune,Jun-2025,49741.68,Sun
+ORD1467,01-08-2025,CUST184,Books,Themselves Book,4,5918.84,Debit Card,Ahmedabad,Aug-2025,23675.36,Fri
+ORD1468,26-04-2025,CUST433,Beauty,Professional Beaut,4,14547.94,Credit Card,Kolkata,Apr-2025,58191.76,Sat
+ORD1469,22-01-2025,CUST228,Shoes,Product Shoe,1,8167.41,Wallet,Bangalore,Jan-2025,8167.41,Wed
+ORD1470,23-05-2025,CUST202,Beauty,Beat Beaut,4,13199.94,Debit Card,Delhi,May-2025,52799.76,Fri
+ORD1471,08-02-2025,CUST336,Clothes,Local Clothe,4,1107.58,UPI,Bangalore,Feb-2025,4430.32,Sat
+ORD1472,13-01-2025,CUST277,Clothes,Never Clothe,3,11377.3,Credit Card,Chennai,Jan-2025,34131.9,Mon
+ORD1473,13-02-2025,CUST769,Sports,A Sport,3,11375.67,Credit Card,Pune,Feb-2025,34127.01,Thu
+ORD1474,09-03-2025,CUST759,Books,Soldier Book,4,10534.88,Credit Card,Kolkata,Mar-2025,42139.52,Sun
+ORD1475,10-07-2025,CUST908,Electronics,Protect Electronic,4,7364.47,Debit Card,Ahmedabad,Jul-2025,29457.88,Thu
+ORD1476,18-08-2025,CUST323,Books,Little Book,4,16077.57,Credit Card,Ahmedabad,Aug-2025,64310.28,Mon
+ORD1477,12-06-2025,CUST247,Clothes,Two Clothe,3,11883.28,Cash on Delivery,Mumbai,Jun-2025,35649.84,Thu
+ORD1478,04-08-2025,CUST932,Books,Shoulder Book,5,15338.21,Credit Card,Pune,Aug-2025,76691.05,Mon
+ORD1479,22-04-2025,CUST125,Shoes,Leg Shoe,2,14827.23,Debit Card,Chennai,Apr-2025,29654.46,Tue
+ORD1480,19-11-2024,CUST551,Clothes,Growth Clothe,1,13654.37,Credit Card,Delhi,Nov-2024,13654.37,Tue
+ORD1481,26-02-2025,CUST532,Books,Pick Book,4,10404.65,Wallet,Mumbai,Feb-2025,41618.6,Wed
+ORD1482,27-02-2025,CUST628,Shoes,Finally Shoe,1,11753.63,Cash on Delivery,Hyderabad,Feb-2025,11753.63,Thu
+ORD1483,12-11-2024,CUST295,Electronics,Describe Electronic,4,4729.3,Debit Card,Hyderabad,Nov-2024,18917.2,Tue
+ORD1484,13-01-2025,CUST567,Shoes,Development Shoe,4,16357.92,Debit Card,Pune,Jan-2025,65431.68,Mon
+ORD1485,22-12-2024,CUST636,Shoes,School Shoe,4,14046.1,Credit Card,Mumbai,Dec-2024,56184.4,Sun
+ORD1486,08-05-2025,CUST551,Clothes,Would Clothe,3,15965.44,Wallet,Bangalore,May-2025,47896.32,Thu
+ORD1487,21-07-2025,CUST876,Electronics,Such Electronic,3,8488.91,Cash on Delivery,Ahmedabad,Jul-2025,25466.73,Mon
+ORD1488,25-07-2025,CUST812,Books,Son Book,1,787.04,Debit Card,Hyderabad,Jul-2025,787.04,Fri
+ORD1489,20-11-2024,CUST598,Shoes,Admit Shoe,1,6073.66,Credit Card,Hyderabad,Nov-2024,6073.66,Wed
+ORD1490,21-06-2025,CUST376,Electronics,Picture Electronic,3,16732.11,Wallet,Kolkata,Jun-2025,50196.33,Sat
+ORD1491,08-12-2024,CUST177,Furniture,View Furnitur,1,6227.96,UPI,Pune,Dec-2024,6227.96,Sun
+ORD1492,14-02-2025,CUST829,Sports,Finally Sport,5,10329.72,Cash on Delivery,Kolkata,Feb-2025,51648.6,Fri
+ORD1493,28-02-2025,CUST702,Electronics,Nation Electronic,4,8114.22,Wallet,Ahmedabad,Feb-2025,32456.88,Fri
+ORD1494,26-09-2024,CUST740,Books,Yourself Book,3,7646.9,UPI,Delhi,Sep-2024,22940.7,Thu
+ORD1495,28-11-2024,CUST665,Books,Debate Book,3,18001.54,UPI,Mumbai,Nov-2024,54004.62,Thu
+ORD1496,16-08-2025,CUST861,Furniture,Exist Furnitur,5,15752.86,Debit Card,Kolkata,Aug-2025,78764.3,Sat
+ORD1497,22-02-2025,CUST314,Books,Score Book,2,13354.35,Credit Card,Hyderabad,Feb-2025,26708.7,Sat
+ORD1498,09-11-2024,CUST786,Beauty,City Beaut,2,8702.69,Wallet,Chennai,Nov-2024,17405.38,Sat
+ORD1499,01-09-2024,CUST508,Electronics,Catch Electronic,3,1325.8,Cash on Delivery,Kolkata,Sep-2024,3977.4,Sun
