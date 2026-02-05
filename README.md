@@ -111,3 +111,7 @@ Incorporate user segmentation / clustering
 Deploy dashboard as a web application
 
 Integrate real-time data streaming
+
+Images -
+<img width="1342" height="745" alt="Screenshot 2026-02-05 144432" src="https://github.com/user-attachments/assets/46417548-d2ac-4c98-9e88-743ec6e5badf" />
+
